@@ -1,0 +1,127 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Student Registration Form</title>
+</head>
+
+<body>
+
+    <h1>Student Registration Form</h1>
+
+    <form>
+
+        
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" name="name"
+               placeholder="Enter your full name" required>
+
+        <br><br>
+
+
+        
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email"
+               placeholder="Enter your email" required>
+
+        <br><br>
+
+
+       
+        <label for="phone">Phone Number:</label>
+        <input type="tel" id="phone" name="phone"
+               placeholder="Enter your phone number" required>
+
+        <br><br>
+
+
+        
+        <label>Gender:</label>
+
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">Male</label>
+
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">Female</label>
+
+        <input type="radio" id="other" name="gender" value="other">
+        <label for="other">Other</label>
+
+        <br><br>
+
+
+       
+        <label for="dob">Date of Birth:</label>
+        <input type="date" id="dob" name="dob">
+
+        <br><br>
+
+
+        
+        <label for="course">Select Course:</label>
+
+        <select id="course" name="course">
+
+            <option value="">-- Select Course --</option>
+            <option value="btech">B.Tech</option>
+            <option value="bca">BCA</option>
+            <option value="bsc">B.Sc</option>
+            <option value="bba">BBA</option>
+            <option value="mca">MCA</option>
+
+        </select>
+
+        <br><br>
+
+
+        
+        <label for="address">Address:</label>
+
+        <br>
+
+        <textarea
+            id="address"
+            name="address"
+            rows="5"
+            cols="40"
+            placeholder="Enter your complete address">
+        </textarea>
+
+        <br><br>
+
+
+        
+        <label>Areas of Interest:</label>
+
+        <br>
+
+        <input type="checkbox" id="coding" name="interest" value="coding">
+        <label for="coding">Coding</label>
+
+        <br>
+
+        <input type="checkbox" id="sports" name="interest" value="sports">
+        <label for="sports">Sports</label>
+
+        <br>
+
+        <input type="checkbox" id="music" name="interest" value="music">
+        <label for="music">Music</label>
+
+        <br>
+
+        <input type="checkbox" id="reading" name="interest" value="reading">
+        <label for="reading">Reading</label>
+
+        <br><br>
+
+        <input type="submit" value="Submit">
+
+        <input type="reset" value="Reset">
+
+    </form>
+
+</body>
+
+</html>
