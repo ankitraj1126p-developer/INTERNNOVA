@@ -1,0 +1,149 @@
+/* Universal Selector */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Element Selector */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7fb;
+    color: #222;
+    line-height: 1.6;
+}
+
+
+/* Element Selector + Background */
+header {
+    background-color: #172554;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+
+/* ID Selector */
+#important-section {
+    background-color: #fff7ed;
+    border-left: 5px solid #f97316;
+}
+
+
+/* Class Selector */
+.subtitle {
+    color: #bfdbfe;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+
+/* Main Content */
+main {
+    width: 90%;
+    max-width: 1000px;
+    margin: 30px auto;
+}
+
+
+/* Sections */
+section {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    border: 1px solid #dbe3ef;
+}
+
+
+/* Element Selector */
+h2 {
+    color: #1d4ed8;
+    margin-bottom: 15px;
+}
+
+
+/* Class Selector */
+.selector-section {
+    background-color: #eff6ff;
+}
+
+
+/* Class Selector */
+.highlight {
+    background-color: #dbeafe;
+    color: #1e40af;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+
+/* Colors & Background */
+.color-section {
+    background-color: #ecfdf5;
+}
+
+
+.color-box {
+    background-color: #16a34a;
+    color: white;
+    padding: 20px;
+    margin-top: 15px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+
+/* Font Styling */
+.font-demo {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    color: #7c3aed;
+}
+
+
+.bold-text {
+    font-weight: bold;
+    color: #dc2626;
+    margin-top: 10px;
+}
+
+
+.italic-text {
+    font-style: italic;
+    color: #0891b2;
+    margin-top: 10px;
+}
+
+
+/* Text Alignment */
+.center-text {
+    text-align: center;
+    background-color: #fef3c7;
+    padding: 12px;
+}
+
+
+.right-text {
+    text-align: right;
+    background-color: #fce7f3;
+    padding: 12px;
+    margin-top: 10px;
+}
+
+
+/* Footer */
+footer {
+    background-color: #172554;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    margin-top: 30px;
+}
+
+
+footer p {
+    margin: 5px;
+}
