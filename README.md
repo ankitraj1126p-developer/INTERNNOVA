@@ -1,41 +1,23 @@
-# Web Development - Week 1
-
-## Student Information
-
-**Name:** Ankit Raj  
-**Week:** Week 1  
-**Technology:** HTML  
-**Project Type:** HTML Practice Tasks & Mini Project
-
----
-
-## About This Week
-
+Web Development Internship – Week 1 & Week 2
+Student Information
+Name: Ankit Raj
+Program: Web Development Internship
+Technology: HTML & CSS
+Project Type: Practice Tasks & Mini Projects  
+📘 Week 1 – HTML
+About Week 1
 Week 1 focused on learning the fundamentals of HTML and understanding how webpages are structured.
-
 The tasks covered basic HTML structure, text formatting, images, hyperlinks, lists, tables, forms, and semantic HTML.
-
-The final mini project combines the major concepts learned during Week 1 into a single Student Learning Portal webpage.
-
----
-
-## Tasks Completed
-
-### Task 1 - Basic HTML Structure
-
+The final mini project combined the major concepts learned throughout Week 1 into a Student Learning Portal webpage.
+Tasks Completed
+Task 1 – Basic HTML Structure
 Created a basic HTML document with the proper:
-
-- `<!DOCTYPE html>`
-- `<html>`
-- `<head>`
-- `<body>` structure
-
----
-
-### Task 2 - Text Formatting
-
+- <!DOCTYPE html>
+- <html>
+- <head>
+- <body> structure
+Task 2 – Text Formatting
 Practiced different HTML text and formatting elements, including:
-
 - Headings
 - Paragraphs
 - Bold text
@@ -46,13 +28,8 @@ Practiced different HTML text and formatting elements, including:
 - Superscript
 - Subscript
 - HTML comments
-
----
-
-### Task 3 - Links, Images, Lists and Tables
-
+Task 3 – Links, Images, Lists and Tables
 Created a webpage demonstrating:
-
 - Internal hyperlinks
 - External hyperlinks
 - Images with alternate text
@@ -62,13 +39,8 @@ Created a webpage demonstrating:
 - Tables
 - Table headings
 - Table rows and columns
-
----
-
-### Task 4 - Student Registration Form
-
+Task 4 – Student Registration Form
 Created a Student Registration Form containing:
-
 - Full Name
 - Email
 - Phone Number
@@ -80,38 +52,26 @@ Created a Student Registration Form containing:
 - Radio buttons
 - Submit button
 - Reset button
-
----
-
-### Task 5 - Semantic HTML
-
+Task 5 – Semantic HTML
 Created a webpage using semantic HTML elements such as:
-
-- `<header>`
-- `<nav>`
-- `<main>`
-- `<section>`
-- `<article>`
-- `<footer>`
-
+- <header>
+- <nav>
+- <main>
+- <section>
+- <article>
+- <footer>
 These elements help organize webpage content in a meaningful structure.
-
----
-
-### Task 6 - Mini HTML Project
-
-Created a **Student Learning Portal** by combining the concepts learned throughout Week 1.
-
+Task 6 – Mini HTML Project
+Created a Student Learning Portal by combining the concepts learned throughout Week 1.
 The project includes:
-
 - Proper HTML structure
 - Text formatting
-- Image
+- Images
 - Internal and external hyperlinks
-- Ordered list
-- Unordered list
-- Nested list
-- Student table
+- Ordered lists
+- Unordered lists
+- Nested lists
+- Tables
 - Registration form
 - Semantic HTML
 - Header
@@ -120,29 +80,85 @@ The project includes:
 - Sections
 - Articles
 - Footer
-
----
-
-## Task 7 - Reflection
-
-The Week 1 reflection discusses:
-
-- What I learned about HTML
-- The most challenging topic
-- HTML concepts I enjoyed
-- How HTML will help me in future web development learning
-
-The reflection has been included in the final `Task6.html` file.
-
----
-
-## Files Included
-
-```text
-Task1.html
-Task2.html
-Task3.html
-Task4.html
-Task5.html
-Task6.html
-README.md
+Week 1 Learning Outcome
+After completing Week 1, I developed a basic understanding of how HTML is used to create and structure webpage content.
+🎨 Week 2 – CSS
+About Week 2
+Week 2 focused on learning CSS (Cascading Style Sheets) and understanding how CSS can be used to style, organize, and make HTML webpages responsive.
+The tasks covered CSS syntax, selectors, colors, backgrounds, font styling, text alignment, the CSS Box Model, Flexbox, CSS Grid, responsive design, and media queries.
+The final mini project combined the major CSS concepts learned throughout Week 2 into a complete responsive webpage.
+Tasks Completed
+Task 1 – Introduction to CSS & Selectors
+Created and styled an HTML webpage using:
+- CSS Syntax
+- External CSS
+- Element Selectors
+- Class Selectors
+- ID Selectors
+- Universal Selector
+- Colors
+- Backgrounds
+- Font Styling
+- Text Alignment
+Task 2 – CSS Box Model & Styling
+Created and styled webpage sections using the CSS Box Model.
+The task demonstrated:
+- Width
+- Height
+- Margin
+- Padding
+- Border
+- Border Radius
+- Box Shadow
+- Proper Spacing
+- Content Alignment
+Task 3 – Flexbox Layout
+Created a webpage section using CSS Flexbox.
+The implementation demonstrated:
+- Flex Container
+- Flex Direction
+- Justify Content
+- Align Items
+- Gap
+- Flex Items
+- Horizontal Alignment
+- Vertical Alignment
+Task 4 – CSS Grid Layout
+Created a structured webpage section using CSS Grid.
+The implementation demonstrated:
+- Grid Container
+- Rows & Columns
+- Grid Gap
+- Grid Item Placement
+- Multiple-column Layout
+A structured card/gallery-style layout was created using CSS Grid.
+Task 5 – Responsive Design Using Media Queries
+Created a responsive webpage that adapts to:
+- Mobile Devices
+- Tablets
+- Desktop Screens
+Media Queries were used to adjust:
+- Layout
+- Font Sizes
+- Spacing
+- Images
+- Cards
+- Navigation
+The webpage remains readable and usable on smaller screens.
+Task 6 – Mini CSS Project
+Created a complete Mini CSS Project by combining the concepts covered throughout Week 2.
+The project demonstrates:
+- CSS Selectors & Styling
+- CSS Box Model
+- Flexbox
+- CSS Grid
+- Responsive Design
+- Media Queries
+- Colors
+- Typography
+- Spacing
+- Borders
+- Border Radius
+- Box Shadows
+- Responsive Cards
+- Responsive Navigation
