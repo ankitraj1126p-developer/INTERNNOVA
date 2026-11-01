@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 3 - Product Management System</title>
+    <link rel="stylesheet" href="Task3.css">
+</head>
+<body>
+
+    <header>
+        <h1>Product Management System</h1>
+        <p>JavaScript Functionality</p>
+    </header>
+
+    <main class="container">
+
+        <section class="form-box">
+            <h2>Add Product</h2>
+
+            <input type="text" id="productName" placeholder="Product Name">
+
+            <input type="number" id="productPrice" placeholder="Price">
+
+            <input type="text" id="productCategory" placeholder="Category">
+
+            <button onclick="addProduct()">Add Product</button>
+        </section>
+
+        <section>
+            <h2>Product List</h2>
+
+            <div id="productList"></div>
+        </section>
+
+    </main>
+
+    <script src="Task3.js"></script>
+</body>
+</html>
