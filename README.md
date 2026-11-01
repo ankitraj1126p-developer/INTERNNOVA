@@ -1,11 +1,11 @@
-# Web Development Internship – Week 1, Week 2 & Week 3
+# Web Development Internship – Week 1 to Week 4
 
 ## Student Information
 
 **Name:** Ankit Raj  
 **Program:** Web Development Internship  
 **Technology:** HTML, CSS & JavaScript  
-**Project Type:** Practice Tasks & Mini Projects  
+**Project Type:** Practice Tasks & Mini Projects
 
 ---
 
@@ -13,7 +13,7 @@
 
 ## About Week 1
 
-Week 1 focused on learning the fundamentals of HTML and understanding how webpages are structured. The tasks covered basic HTML structure, text formatting, images, hyperlinks, lists, tables, forms, and semantic HTML. The final mini project combined the major concepts learned throughout Week 1 into a Student Learning Portal webpage.
+Week 1 focused on learning the fundamentals of HTML and understanding how webpages are structured. The tasks covered basic HTML structure, text formatting, images, hyperlinks, lists, tables, forms, and semantic HTML.
 
 ## Tasks Completed
 
@@ -21,10 +21,10 @@ Week 1 focused on learning the fundamentals of HTML and understanding how webpag
 
 Created a basic HTML document with the proper:
 
-- `<!DOCTYPE html>`
-- `<html>`
-- `<head>`
-- `<body>` structure
+- `<!DOCTYPE html>` declaration
+- `<html>` element
+- `<head>` section
+- `<body>` section
 
 ### Task 2 – Text Formatting
 
@@ -86,7 +86,7 @@ These elements help organize webpage content in a meaningful structure.
 
 ### Task 6 – Mini HTML Project
 
-Created a **Student Learning Portal** by combining the concepts learned throughout Week 1.
+Created a Student Learning Portal by combining the concepts learned throughout Week 1.
 
 The project includes:
 
@@ -117,7 +117,9 @@ After completing Week 1, I developed a basic understanding of how HTML is used t
 
 ## About Week 2
 
-Week 2 focused on learning CSS (Cascading Style Sheets) and understanding how CSS can be used to style, organize, and make HTML webpages responsive. The tasks covered CSS syntax, selectors, colors, backgrounds, font styling, text alignment, the CSS Box Model, Flexbox, CSS Grid, responsive design, and media queries.
+Week 2 focused on learning CSS (Cascading Style Sheets) and understanding how CSS can be used to style, organize, and make HTML webpages responsive.
+
+The tasks covered CSS syntax, selectors, colors, backgrounds, font styling, text alignment, the CSS Box Model, Flexbox, CSS Grid, responsive design, and media queries.
 
 ## Tasks Completed
 
@@ -202,7 +204,7 @@ The webpage remains readable and usable on smaller screens.
 
 ### Task 6 – Mini CSS Project
 
-Created a complete **Mini CSS Project** by combining the concepts covered throughout Week 2.
+Created a complete Mini CSS Project by combining the concepts covered throughout Week 2.
 
 The project demonstrates:
 
@@ -223,27 +225,23 @@ The project demonstrates:
 
 ## Week 2 Learning Outcome
 
-After completing Week 2, I developed an understanding of how CSS can be used to style webpages, create layouts, organize content, and build responsive designs for different screen sizes.
+After completing Week 2, I developed an understanding of how CSS is used to style webpages, create layouts, and make websites responsive across different screen sizes.
 
 ---
 
-# 🟨 Week 3 – JavaScript
+# 🟨 Week 3 – JavaScript Basics
 
 ## About Week 3
 
-Week 3 focused on learning the fundamentals of JavaScript and understanding how JavaScript adds logic and interactivity to webpages. The tasks covered JavaScript syntax, variables, data types, operators, conditional statements, loops, and JavaScript practice programs.
+Week 3 focused on learning the fundamentals of JavaScript and understanding how JavaScript code is written and executed in webpages.
 
-The programs were connected with HTML files using external JavaScript files, and the results were displayed using `console.log()`.
-
----
+The tasks covered JavaScript syntax, variables, data types, operators, conditional statements, loops, and basic programming problems.
 
 ## Tasks Completed
 
 ### Task 1 – JavaScript Basics
 
-Created JavaScript programs demonstrating the basic concepts of JavaScript.
-
-The task covered:
+Created JavaScript programs demonstrating:
 
 - JavaScript Syntax
 - `console.log()`
@@ -258,7 +256,7 @@ Simple examples were created to demonstrate how JavaScript code is written and e
 
 Created JavaScript programs demonstrating variables and different data types.
 
-The task covered:
+The task included:
 
 - `let`
 - `const`
@@ -277,7 +275,7 @@ Meaningful examples were used to demonstrate each concept.
 
 Created JavaScript programs demonstrating different types of operators.
 
-The task covered:
+The task included:
 
 - Arithmetic Operators
 - Assignment Operators
@@ -301,20 +299,19 @@ The task demonstrated:
 - Comparison using conditions
 - Logical conditions
 
-The following problems were solved:
+Examples included:
 
 - Checking whether a number is positive, negative, or zero
 - Checking whether a number is even or odd
 - Checking eligibility based on age
-- Finding the greater of two numbers
-- Finding the greater of three numbers
+- Finding the greater of two or three numbers
 - Assigning grades based on marks
 
 ### Task 5 – Loops
 
 Created JavaScript programs demonstrating the use of loops.
 
-The task covered:
+The task included:
 
 - `for` Loop
 - `while` Loop
@@ -322,7 +319,7 @@ The task covered:
 - Loop with conditions
 - Increment and decrement in loops
 
-The following problems were solved:
+Problems included:
 
 - Printing numbers from 1 to 10
 - Printing even numbers
@@ -333,9 +330,9 @@ The following problems were solved:
 
 ### Task 6 – JavaScript Practice Programs
 
-Created a separate JavaScript file containing multiple practice programs combining the concepts covered in Week 3.
+Created a separate JavaScript file containing at least five practice programs combining the concepts covered in Week 3.
 
-The programs use:
+The programs used:
 
 - Variables
 - Data Types
@@ -343,40 +340,153 @@ The programs use:
 - Conditional Statements
 - Loops
 
-Different problems were used for each practice program, including:
-
-- Checking whether a number is even or odd
-- Finding the sum of numbers
-- Finding the largest of three numbers
-- Printing a multiplication table
-- Assigning grades based on marks
-- Printing even numbers using loops
-
-The programs were written using clean and readable JavaScript code.
-
----
+Different problems were used for each program with clean and readable code.
 
 ## Week 3 Learning Outcome
 
-After completing Week 3, I developed a basic understanding of JavaScript and learned how to use variables, data types, operators, conditional statements, and loops to create logical programs.
-
-I also learned how to connect JavaScript with HTML and execute JavaScript programs using the browser console.
+After completing Week 3, I developed a basic understanding of JavaScript programming, including variables, data types, operators, conditions, loops, and basic problem-solving.
 
 ---
 
-# 🚀 Overall Learning Outcome
+# 🟦 Week 4 – JavaScript Functions, Arrays, Objects & DOM
 
-After completing **Week 1, Week 2, and Week 3** of the Web Development Internship, I developed a foundation in:
+## About Week 4
 
-- **HTML** – Creating and structuring webpages
-- **CSS** – Styling and designing webpages
-- **Flexbox** – Creating flexible layouts
-- **CSS Grid** – Creating structured layouts
-- **Responsive Design** – Building webpages for different screen sizes
-- **JavaScript** – Adding programming logic and functionality
-- **Variables & Data Types** – Managing different types of data
-- **Operators** – Performing calculations and comparisons
-- **Conditional Statements** – Making decisions in programs
-- **Loops** – Repeating tasks efficiently
+Week 4 focused on intermediate JavaScript concepts and using JavaScript to create interactive webpages.
 
-These three weeks provided a strong foundation for progressing toward more advanced web development concepts and interactive web applications.
+The tasks covered functions, arrays, objects, DOM manipulation, events, and a mini JavaScript project.
+
+## Tasks Completed
+
+### Task 1 – JavaScript Functions
+
+Created JavaScript programs demonstrating the use of functions.
+
+The task included:
+
+- Function Declaration
+- Function Parameters
+- Function Arguments
+- Return Values
+- Multiple Functions
+- Arrow Functions
+
+Meaningful examples were created such as:
+
+- Calculating marks
+- Calculating total price
+- Generating a greeting
+- Calculating a result
+
+### Task 2 – Arrays
+
+Created JavaScript programs using Arrays.
+
+The task demonstrated:
+
+- Creating Arrays
+- Accessing Array Elements
+- Adding Elements
+- Removing Elements
+- Updating Elements
+- Iterating through Arrays
+- Basic Array Methods
+
+Practical datasets such as student names, products, courses, or employee records were used.
+
+### Task 3 – Objects
+
+Created and worked with JavaScript Objects.
+
+The task demonstrated:
+
+- Creating Objects
+- Object Properties
+- Object Values
+- Accessing Properties
+- Updating Properties
+- Adding New Properties
+- Removing Properties
+
+At least three meaningful objects were created based on a practical scenario.
+
+### Task 4 – DOM Manipulation
+
+Created an HTML webpage and used JavaScript to dynamically interact with its elements.
+
+The task demonstrated:
+
+- Selecting HTML Elements
+- Changing Text Content
+- Changing HTML Content
+- Changing CSS Styles
+- Adding Elements
+- Removing Elements
+- Updating webpage content dynamically
+
+### Task 5 – Events
+
+Added JavaScript Events to webpages.
+
+The task implemented events such as:
+
+- `click`
+- `input`
+- `change`
+- `submit`
+- Mouse Events
+- Keyboard Events
+
+Meaningful interactions were created where the webpage responds to user actions.
+
+### Task 6 – Mini JavaScript Project
+
+Developed a small interactive JavaScript project by combining the concepts covered throughout Week 4.
+
+The project uses:
+
+- Functions
+- Arrays
+- Objects
+- DOM Manipulation
+- Events
+
+Possible project concepts include:
+
+- To-Do List
+- Student Record Manager
+- Simple Quiz Application
+- Expense Tracker
+- Notes Application
+- Product List
+
+The project is functional and user-friendly.
+
+## Week 4 Learning Outcome
+
+After completing Week 4, I developed an understanding of intermediate JavaScript concepts and learned how to create interactive webpages using functions, arrays, objects, DOM manipulation, and events.
+
+---
+
+# 🎯 Overall Learning Outcome
+
+After completing four weeks of the Web Development Internship, I developed a foundation in frontend web development using:
+
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+- Flexbox
+- CSS Grid
+- JavaScript Variables
+- Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Arrays
+- Objects
+- DOM Manipulation
+- JavaScript Events
+
+The internship tasks helped me improve my coding skills, problem-solving ability, webpage design skills, and understanding of interactive web development.
