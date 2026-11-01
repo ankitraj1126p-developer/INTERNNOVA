@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 4 - DOM Manipulation</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background-color: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px gray;
+        }
+
+        button {
+            padding: 10px 15px;
+            margin: 5px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        #changeText {
+            background-color: #3498db;
+            color: white;
+        }
+
+        #changeStyle {
+            background-color: #9b59b6;
+            color: white;
+        }
+
+        #addElement {
+            background-color: #27ae60;
+            color: white;
+        }
+
+        #removeElement {
+            background-color: #e74c3c;
+            color: white;
+        }
+
+        #content {
+            padding: 15px;
+            margin-top: 20px;
+            border: 2px solid #ddd;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1 id="heading">DOM Manipulation</h1>
+
+        <p id="message">
+            This is the original message.
+        </p>
+
+        <div id="content">
+            Original HTML Content
+        </div>
+
+        <br>
+
+        <button id="changeText">
+            Change Text
+        </button>
+
+        <button id="changeStyle">
+            Change Style
+        </button>
+
+        <button id="addElement">
+            Add Element
+        </button>
+
+        <button id="removeElement">
+            Remove Element
+        </button>
+
+    </div>
+
+    <script src="Task4.js"></script>
+
+</body>
+</html>
