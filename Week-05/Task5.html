@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 5 - Product Features</title>
+    <link rel="stylesheet" href="Task5.css">
+</head>
+<body>
+
+    <header>
+
+        <div>
+            <h1>Product Manager</h1>
+            <p>Manage your products easily</p>
+        </div>
+
+        <div class="counter">
+            Products: <span id="productCount">0</span>
+        </div>
+
+    </header>
+
+    <main class="container">
+
+       
+
+        <section class="form-section">
+
+            <h2>Add New Product</h2>
+
+            <form id="productForm">
+
+                <input
+                    type="text"
+                    id="productName"
+                    placeholder="Product Name"
+                    required
+                >
+
+                <input
+                    type="number"
+                    id="productPrice"
+                    placeholder="Price"
+                    required
+                >
+
+                <select id="productCategory">
+
+                    <option value="Electronics">
+                        Electronics
+                    </option>
+
+                    <option value="Clothing">
+                        Clothing
+                    </option>
+
+                    <option value="Accessories">
+                        Accessories
+                    </option>
+
+                    <option value="Other">
+                        Other
+                    </option>
+
+                </select>
+
+                <button type="submit">
+                    Add Product
+                </button>
+
+            </form>
+
+        </section>
+
+        <!-- Search and Filter -->
+
+        <section class="controls">
+
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Search products..."
+            >
+
+            <select id="filterCategory">
+
+                <option value="All">
+                    All Categories
+                </option>
+
+                <option value="Electronics">
+                    Electronics
+                </option>
+
+                <option value="Clothing">
+                    Clothing
+                </option>
+
+                <option value="Accessories">
+                    Accessories
+                </option>
+
+                <option value="Other">
+                    Other
+                </option>
+
+            </select>
+
+        </section>
+
+        <!-- Product List -->
+
+        <section>
+
+            <h2 class="section-title">
+                Product List
+            </h2>
+
+            <div id="productList"></div>
+
+            <p id="noProduct">
+                No products found.
+            </p>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>© 2026 Product Management System</p>
+    </footer>
+
+    <script src="Task5.js"></script>
+</body>
+</html>
