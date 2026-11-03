@@ -1,492 +1,323 @@
-# Web Development Internship – Week 1 to Week 4
+# Web Development Internship – Week 1 to Week 5
 
 ## Student Information
 
-**Name:** Ankit Raj  
-**Program:** Web Development Internship  
-**Technology:** HTML, CSS & JavaScript  
-**Project Type:** Practice Tasks & Mini Projects
+- **Name:** Ankit Raj
+- **Program:** Web Development Internship
+- **Organization:** InternNova
+- **Technology:** HTML, CSS and JavaScript
+- **Project Type:** Practice Tasks and Mini Projects
 
 ---
 
-# 📘 Week 1 – HTML
+# 📘 Week 1 – HTML Fundamentals
 
 ## About Week 1
 
-Week 1 focused on learning the fundamentals of HTML and understanding how webpages are structured. The tasks covered basic HTML structure, text formatting, images, hyperlinks, lists, tables, forms, and semantic HTML.
+Week 1 focused on learning the fundamentals of HTML and understanding how webpages are structured. The tasks covered basic HTML structure, text formatting, images, hyperlinks, lists, tables, forms and semantic HTML.
 
 ## Tasks Completed
 
 ### Task 1 – Basic HTML Structure
-
-Created a basic HTML document with the proper:
-
-- `<!DOCTYPE html>` declaration
-- `<html>` element
-- `<head>` section
-- `<body>` section
+- Created a basic HTML document.
+- Used DOCTYPE, HTML, HEAD and BODY elements.
+- Added page title and metadata.
 
 ### Task 2 – Text Formatting
-
-Practiced different HTML text and formatting elements, including:
-
-- Headings
-- Paragraphs
-- Bold text
-- Italic text
-- Underlined text
-- Horizontal line
-- Line breaks
-- Superscript
-- Subscript
+- Headings and paragraphs
+- Bold, italic and underlined text
+- Horizontal lines and line breaks
+- Superscript and subscript
 - HTML comments
 
 ### Task 3 – Links, Images, Lists and Tables
-
-Created a webpage demonstrating:
-
-- Internal hyperlinks
-- External hyperlinks
+- Internal and external hyperlinks
 - Images with alternate text
-- Ordered lists
-- Unordered lists
+- Ordered and unordered lists
 - Nested lists
-- Tables
-- Table headings
-- Table rows and columns
+- Tables, headings, rows and columns
 
 ### Task 4 – Student Registration Form
-
-Created a Student Registration Form containing:
-
-- Full Name
-- Email
-- Phone Number
-- Gender
-- Date of Birth
+- Full name, email and phone number
+- Gender and date of birth
 - Course selection dropdown
-- Address
-- Checkboxes
-- Radio buttons
-- Submit button
-- Reset button
+- Address field
+- Checkboxes and radio buttons
+- Submit and reset buttons
 
 ### Task 5 – Semantic HTML
-
-Created a webpage using semantic HTML elements such as:
-
-- `<header>`
-- `<nav>`
-- `<main>`
-- `<section>`
-- `<article>`
-- `<footer>`
-
-These elements help organize webpage content in a meaningful structure.
+- Used semantic HTML elements to organize webpage content.
+- Practised meaningful page structure.
 
 ### Task 6 – Mini HTML Project
-
-Created a Student Learning Portal by combining the concepts learned throughout Week 1.
-
-The project includes:
-
-- Proper HTML structure
-- Text formatting
-- Images
-- Internal and external hyperlinks
-- Ordered lists
-- Unordered lists
-- Nested lists
-- Tables
-- Registration form
-- Semantic HTML
-- Header
-- Navigation
-- Main content
-- Sections
-- Articles
-- Footer
+Created a **Student Learning Portal** using the HTML concepts learned throughout the week.
 
 ## Week 1 Learning Outcome
-
-After completing Week 1, I developed a basic understanding of how HTML is used to create and structure webpage content.
+Developed a basic understanding of HTML and learned how to create and structure webpage content.
 
 ---
 
-# 🎨 Week 2 – CSS
+# 🎨 Week 2 – CSS Fundamentals
 
 ## About Week 2
 
-Week 2 focused on learning CSS (Cascading Style Sheets) and understanding how CSS can be used to style, organize, and make HTML webpages responsive.
-
-The tasks covered CSS syntax, selectors, colors, backgrounds, font styling, text alignment, the CSS Box Model, Flexbox, CSS Grid, responsive design, and media queries.
+Week 2 focused on CSS (Cascading Style Sheets) and learning how to style, organize and make HTML webpages responsive.
 
 ## Tasks Completed
 
 ### Task 1 – Introduction to CSS & Selectors
-
-Created and styled an HTML webpage using:
-
-- CSS Syntax
+- CSS syntax
 - External CSS
-- Element Selectors
-- Class Selectors
-- ID Selectors
-- Universal Selector
-- Colors
-- Backgrounds
-- Font Styling
-- Text Alignment
+- Element selectors
+- Class selectors
+- ID selectors
+- Universal selector
+- Colors and backgrounds
+- Font styling and text alignment
 
 ### Task 2 – CSS Box Model & Styling
-
-Created and styled webpage sections using the CSS Box Model.
-
-The task demonstrated:
-
-- Width
-- Height
-- Margin
-- Padding
-- Border
-- Border Radius
-- Box Shadow
-- Proper Spacing
-- Content Alignment
+- Width and height
+- Margin and padding
+- Border and border radius
+- Box shadow
+- Proper spacing and content alignment
 
 ### Task 3 – Flexbox Layout
-
-Created a webpage section using CSS Flexbox.
-
-The implementation demonstrated:
-
-- Flex Container
-- Flex Direction
-- Justify Content
-- Align Items
-- Gap
-- Flex Items
-- Horizontal Alignment
-- Vertical Alignment
+- Flex container
+- Flex direction
+- Justify content
+- Align items
+- Gap and flex items
+- Horizontal and vertical alignment
 
 ### Task 4 – CSS Grid Layout
-
-Created a structured webpage section using CSS Grid.
-
-The implementation demonstrated:
-
-- Grid Container
-- Rows & Columns
-- Grid Gap
-- Grid Item Placement
-- Multiple-column Layout
-
-A structured card/gallery-style layout was created using CSS Grid.
+- Grid container
+- Rows and columns
+- Grid gap
+- Grid item placement
+- Multiple-column layout
 
 ### Task 5 – Responsive Design Using Media Queries
-
-Created a responsive webpage that adapts to:
-
-- Mobile Devices
+- Mobile devices
 - Tablets
-- Desktop Screens
-
-Media Queries were used to adjust:
-
-- Layout
-- Font Sizes
-- Spacing
-- Images
-- Cards
-- Navigation
-
-The webpage remains readable and usable on smaller screens.
+- Desktop screens
+- Responsive layouts, font sizes, spacing and navigation
 
 ### Task 6 – Mini CSS Project
-
-Created a complete Mini CSS Project by combining the concepts covered throughout Week 2.
-
-The project demonstrates:
-
-- CSS Selectors & Styling
-- CSS Box Model
-- Flexbox
-- CSS Grid
-- Responsive Design
-- Media Queries
-- Colors
-- Typography
-- Spacing
-- Borders
-- Border Radius
-- Box Shadows
-- Responsive Cards
-- Responsive Navigation
+Created a responsive webpage combining CSS selectors, Box Model, Flexbox, Grid and media queries.
 
 ## Week 2 Learning Outcome
-
-After completing Week 2, I developed an understanding of how CSS is used to style webpages, create layouts, and make websites responsive across different screen sizes.
+Learned how to style webpages using CSS and create responsive layouts for different screen sizes.
 
 ---
 
-# 🟨 Week 3 – JavaScript Basics
+# 💻 Week 3 – JavaScript Fundamentals
 
 ## About Week 3
 
-Week 3 focused on learning the fundamentals of JavaScript and understanding how JavaScript code is written and executed in webpages.
-
-The tasks covered JavaScript syntax, variables, data types, operators, conditional statements, loops, and basic programming problems.
-
-## Tasks Completed
-
-### Task 1 – JavaScript Basics
-
-Created JavaScript programs demonstrating:
-
-- JavaScript Syntax
-- `console.log()`
-- Single-line Comments
-- Multi-line Comments
-- Linking JavaScript with an HTML file
-- Basic JavaScript Statements
-
-Simple examples were created to demonstrate how JavaScript code is written and executed.
-
-### Task 2 – Variables & Data Types
-
-Created JavaScript programs demonstrating variables and different data types.
-
-The task included:
-
-- `let`
-- `const`
-- Variable Declaration
-- Variable Assignment
-- String
-- Number
-- Boolean
-- `undefined`
-- `null`
-- Checking data types using `typeof`
-
-Meaningful examples were used to demonstrate each concept.
-
-### Task 3 – Operators
-
-Created JavaScript programs demonstrating different types of operators.
-
-The task included:
-
-- Arithmetic Operators
-- Assignment Operators
-- Comparison Operators
-- Logical Operators
-- Increment Operator
-- Decrement Operator
-
-Suitable examples were created and the results were displayed using `console.log()`.
-
-### Task 4 – Conditional Statements
-
-Created JavaScript programs using conditional statements to solve different problems.
-
-The task demonstrated:
-
-- `if`
-- `if...else`
-- `else if`
-- Nested `if`
-- Comparison using conditions
-- Logical conditions
-
-Examples included:
-
-- Checking whether a number is positive, negative, or zero
-- Checking whether a number is even or odd
-- Checking eligibility based on age
-- Finding the greater of two or three numbers
-- Assigning grades based on marks
-
-### Task 5 – Loops
-
-Created JavaScript programs demonstrating the use of loops.
-
-The task included:
-
-- `for` Loop
-- `while` Loop
-- `do...while` Loop
-- Loop with conditions
-- Increment and decrement in loops
-
-Problems included:
-
-- Printing numbers from 1 to 10
-- Printing even numbers
-- Printing odd numbers
-- Printing multiplication tables
-- Finding the sum of numbers
-- Printing numbers in reverse order
-
-### Task 6 – JavaScript Practice Programs
-
-Created a separate JavaScript file containing at least five practice programs combining the concepts covered in Week 3.
-
-The programs used:
-
-- Variables
-- Data Types
-- Operators
-- Conditional Statements
-- Loops
-
-Different problems were used for each program with clean and readable code.
-
-## Week 3 Learning Outcome
-
-After completing Week 3, I developed a basic understanding of JavaScript programming, including variables, data types, operators, conditions, loops, and basic problem-solving.
-
----
-
-# 🟦 Week 4 – JavaScript Functions, Arrays, Objects & DOM
-
-## About Week 4
-
-Week 4 focused on intermediate JavaScript concepts and using JavaScript to create interactive webpages.
-
-The tasks covered functions, arrays, objects, DOM manipulation, events, and a mini JavaScript project.
+Week 3 focused on learning JavaScript and understanding how to make webpages dynamic and interactive.
 
 ## Tasks Completed
 
 ### Task 1 – JavaScript Functions
-
-Created JavaScript programs demonstrating the use of functions.
-
-The task included:
-
-- Function Declaration
-- Function Parameters
-- Function Arguments
-- Return Values
-- Multiple Functions
-- Arrow Functions
-
-Meaningful examples were created such as:
-
-- Calculating marks
-- Calculating total price
-- Generating a greeting
-- Calculating a result
+- Function declaration
+- Function parameters
+- Function arguments
+- Return values
+- Multiple functions
+- Arrow functions
 
 ### Task 2 – Arrays
-
-Created JavaScript programs using Arrays.
-
-The task demonstrated:
-
-- Creating Arrays
-- Accessing Array Elements
-- Adding Elements
-- Removing Elements
-- Updating Elements
-- Iterating through Arrays
-- Basic Array Methods
-
-Practical datasets such as student names, products, courses, or employee records were used.
+- Creating arrays
+- Accessing array elements
+- Adding and removing elements
+- Updating elements
+- Iterating through arrays
+- Basic array methods
 
 ### Task 3 – Objects
-
-Created and worked with JavaScript Objects.
-
-The task demonstrated:
-
-- Creating Objects
-- Object Properties
-- Object Values
-- Accessing Properties
-- Updating Properties
-- Adding New Properties
-- Removing Properties
-
-At least three meaningful objects were created based on a practical scenario.
+- Creating objects
+- Object properties and values
+- Accessing properties
+- Updating properties
+- Adding new properties
+- Removing properties
 
 ### Task 4 – DOM Manipulation
-
-Created an HTML webpage and used JavaScript to dynamically interact with its elements.
-
-The task demonstrated:
-
-- Selecting HTML Elements
-- Changing Text Content
-- Changing HTML Content
-- Changing CSS Styles
-- Adding Elements
-- Removing Elements
-- Updating webpage content dynamically
+- Selecting HTML elements
+- Changing text content
+- Changing HTML content
+- Changing CSS styles
+- Adding and removing elements
+- Dynamically updating webpage content
 
 ### Task 5 – Events
-
-Added JavaScript Events to webpages.
-
-The task implemented events such as:
-
-- `click`
-- `input`
-- `change`
-- `submit`
-- Mouse Events
-- Keyboard Events
-
-Meaningful interactions were created where the webpage responds to user actions.
+- Click events
+- Input events
+- Change events
+- Submit events
+- Mouse and keyboard events
 
 ### Task 6 – Mini JavaScript Project
+Created a small interactive JavaScript project combining functions, arrays, objects, DOM manipulation and events.
 
-Developed a small interactive JavaScript project by combining the concepts covered throughout Week 4.
+## Week 3 Learning Outcome
+Developed an understanding of JavaScript functions, arrays, objects, DOM manipulation and event handling.
 
-The project uses:
+---
 
+# ⚙️ Week 4 – JavaScript Practice
+
+## About Week 4
+
+Week 4 focused on strengthening JavaScript programming skills through variables, data types, operators, conditional statements, loops and practice programs.
+
+## Tasks Completed
+
+### Task 1 – Variables and Data Types
+- Variables using `var`, `let` and `const`
+- Numbers
+- Strings
+- Booleans
+- Undefined and null
+
+### Task 2 – JavaScript Operators
+- Arithmetic operators
+- Assignment operators
+- Comparison operators
+- Logical operators
+- Increment and decrement operators
+
+### Task 3 – JavaScript Basics Practice
+Practised combining variables, data types and operators to solve basic programming problems.
+
+### Task 4 – Conditional Statements
+- `if`
+- `if...else`
+- `else if`
+- Nested `if`
+- Comparison conditions
+- Logical conditions
+- Positive, negative or zero
+- Even or odd
+- Age eligibility
+- Finding the greatest number
+- Assigning grades based on marks
+
+### Task 5 – Loops
+- `for` loop
+- `while` loop
+- `do...while` loop
+- Loops with conditions
+- Increment and decrement
+- Printing numbers from 1 to 10
+- Printing even and odd numbers
+- Multiplication tables
+- Sum of numbers
+- Reverse order printing
+
+### Task 6 – JavaScript Practice Programs
+Created at least five JavaScript practice programs combining variables, data types, operators, conditional statements and loops.
+
+## Week 4 Learning Outcome
+Improved problem-solving skills and learned how to use conditions and loops to solve programming problems.
+
+---
+
+# 🚀 Week 5 – Product Management System
+
+## About Week 5
+
+Week 5 focused on developing a JavaScript-based project by combining HTML, CSS and JavaScript concepts. I selected the **Product Management System** as my project.
+
+## Tasks Completed
+
+### Task 1 – Project Planning
+Prepared the project plan, including:
+- Project title
+- Project objective
+- Target users
+- Main features
+- Technologies used
+- Project description
+
+### Task 2 – HTML & CSS Structure
+Created the basic structure and design of the Product Management System using:
+- Proper HTML structure
+- Header and navigation
+- Main content section
+- Forms and input fields
+- Buttons
+- Product cards
+- CSS styling and layout
+
+### Task 3 – JavaScript Functionality
+Implemented the main project functionality using:
+- Variables
 - Functions
 - Arrays
 - Objects
-- DOM Manipulation
-- Events
+- Conditional statements
+- Loops
+- Array methods
 
-Possible project concepts include:
+### Task 4 – DOM Manipulation & Events
+Implemented interactive functionality using:
+- Selecting HTML elements
+- Updating content dynamically
+- Creating and removing elements
+- Button click events
+- Form events
+- Input events
+- Dynamic user interaction
 
-- To-Do List
-- Student Record Manager
-- Simple Quiz Application
-- Expense Tracker
-- Notes Application
-- Product List
+### Task 5 – Project Features
+Implemented the following features:
+- Add products
+- Delete products
+- Search products
+- Filter products by category
+- Form validation
+- Dynamic product counter
+- Interactive buttons
 
-The project is functional and user-friendly.
+### Task 6 – Project Documentation & Reflection
+Prepared project documentation covering:
+- Project overview
+- Features implemented
+- Technologies used
+- JavaScript concepts used
+- Project screenshots
+- Challenges faced
+- Solutions implemented
+- What I learned
+- Future improvements
 
-## Week 4 Learning Outcome
+## Week 5 Learning Outcome
+Developed a functional Product Management System and gained practical experience in combining HTML, CSS and JavaScript to create an interactive web application.
 
-After completing Week 4, I developed an understanding of intermediate JavaScript concepts and learned how to create interactive webpages using functions, arrays, objects, DOM manipulation, and events.
+---
+
+# 🛠️ Technologies Used
+
+- **HTML5:** Webpage structure
+- **CSS3:** Styling and responsive design
+- **JavaScript:** Functionality and interactivity
+- **Visual Studio Code:** Code editor
+- **Web Browser:** Testing and debugging
 
 ---
 
 # 🎯 Overall Learning Outcome
 
-After completing four weeks of the Web Development Internship, I developed a foundation in frontend web development using:
+Throughout the first five weeks of the Web Development Internship at InternNova, I learned the fundamentals of HTML, CSS and JavaScript. I practised creating webpage structures, styling responsive layouts, working with JavaScript functions, arrays, objects, conditions and loops, and manipulating webpage elements through the DOM.
 
-- HTML
-- CSS
-- JavaScript
-- Responsive Web Design
-- Flexbox
-- CSS Grid
-- JavaScript Variables
-- Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Functions
-- Arrays
-- Objects
-- DOM Manipulation
-- JavaScript Events
+I also developed a Product Management System that combines these technologies and provides practical features such as adding, deleting, searching and filtering products.
 
-The internship tasks helped me improve my coding skills, problem-solving ability, webpage design skills, and understanding of interactive web development.
+This internship helped me improve my programming knowledge, problem-solving ability and practical web development skills.
+
+---
+
+**Submitted by:** Ankit Raj  
+**Program:** Web Development Internship  
+**Organization:** InternNova
